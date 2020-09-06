@@ -148,8 +148,8 @@ export default {
                     })
                 } 
 
-            }
-            
+            } 
+
 
             //validate args for Color
             if(typeFilter == 'cor'){
